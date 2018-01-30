@@ -23,3 +23,6 @@ https://www.jianshu.com/p/064aec7a5164
 http://blog.csdn.net/qq_33052539/article/details/52820032
 ### 安装subl
 https://jingyan.baidu.com/article/64d05a023cd849de55f73be4.html
+http://blog.csdn.net/flyfish111222/article/details/51886787
+### Ubuntu下MongoDB的安装和使用
+http://blog.csdn.net/flyfish111222/article/details/51886787
