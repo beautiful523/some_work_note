@@ -13,6 +13,9 @@ sudo aptitude install python-configparser
 ipython有tab键提示
 ### 安装pip
 https://www.cnblogs.com/twtp/p/5325649.html
+sudo apt-get install python-pip
+sudo apt-get install python3-pip
+
 ### ubuntu下markdown编辑神器haroopad安装与配置
 https://www.jianshu.com/p/064aec7a5164
 然后命令行输入haroopad运行
