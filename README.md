@@ -26,3 +26,11 @@ https://jingyan.baidu.com/article/64d05a023cd849de55f73be4.html
 http://blog.csdn.net/flyfish111222/article/details/51886787
 ### Ubuntu下MongoDB的安装和使用
 http://blog.csdn.net/flyfish111222/article/details/51886787
+### 安装selenium
+官网下载安装包https://pypi.python.org/pypi/selenium
+进入安装包所在目录 cd ~/Downloads
+解压缩tar zxvf selenium-3.8.1.tar.gz
+进入解压缩后目录 cd selenium-3.8.1/
+安装 sudo python setup.py install
+
+
