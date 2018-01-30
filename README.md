@@ -19,3 +19,7 @@ sudo apt-get install python3-pip
 ### ubuntu下markdown编辑神器haroopad安装与配置
 https://www.jianshu.com/p/064aec7a5164
 然后命令行输入haroopad运行
+### 装git
+http://blog.csdn.net/qq_33052539/article/details/52820032
+### 安装subl
+https://jingyan.baidu.com/article/64d05a023cd849de55f73be4.html
