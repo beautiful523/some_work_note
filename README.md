@@ -33,4 +33,7 @@ http://blog.csdn.net/flyfish111222/article/details/51886787
 进入解压缩后目录 cd selenium-3.8.1/
 安装 sudo python setup.py install
 
+报错unable to start phantomjs with ghostdriver
+解决 apt-get方式安装phantomjs
+
 
